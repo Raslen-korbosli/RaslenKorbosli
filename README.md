@@ -8,7 +8,7 @@
 <div align="center">
  👀 I’m interested in web development                       
  
- 🌱 I’m currently learning typescript 
+ 🌱 I’m currently learning nodeJs & expressJs 
 <br/>
 
  </div>
